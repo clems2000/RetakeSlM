@@ -24,7 +24,7 @@ public class Main {
     }
 
     public static String GetMessage() {
-        return "Hello World";
+        return "Hello World!";
     }
 
 

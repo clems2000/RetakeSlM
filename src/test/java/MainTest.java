@@ -9,7 +9,7 @@ public class MainTest {
         //act
         String actual = Main.GetMessage();
         //assert
-        Assertions.assertEquals("Hello World", actual);
+        Assertions.assertEquals("Hello World!", actual);
     }
 
 }
